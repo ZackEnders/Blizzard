@@ -1,0 +1,13 @@
+{
+  "name": "blizzard-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "react": "cd frontend && npm run react",
+    "node": "cd backend && npm run node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
